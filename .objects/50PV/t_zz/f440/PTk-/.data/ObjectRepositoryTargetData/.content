@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="y9ZcvLl8NUuT_TebTYFnRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="yelp.com/search" CVScreenId="84f794f9-6be2-4490-8d1d-81c86e45600a" CvElementArea="65, 311, 63, 44" CvTextArea="90, 325, 10, 15" CvTextArgument="$" CvType="Button" DesignTimeRectangle="64, 312, 62, 40" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='modal-portal-container' tag='BUTTON' type='button' class='filterToggle__09f24__XF_eF growFilter__09f24__SJOGc leftRounded__09f24__BRQUT noRightBorder__09f24__prbVO growFilterContainer__09f24__ZeedZ y-css-cy6s7x' aaname='$' check:innerText='$' /&gt;" Guid="9f09d931-50d8-4838-9b3e-daee21d914cb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Restaurants New York, NY - Last Updated February 2025 - Yelp' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="84f794f9-6be2-4490-8d1d-81c86e45600a" CvElementArea="65, 311, 63, 44" CvTextArea="90, 325, 10, 15" CvTextArgument="$" CvType="Button" DesignTimeRectangle="91, 322, 9, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='modal-portal-container' tag='SPAN' type='' class='y-css-1ickgui' aaname='$' check:innerText='$' /&gt;" Guid="be91f0ac-f066-4491-bcc3-7b0e43fc6130" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="413107f17c60de58fc3d2c16a16df89e.png" xmlns="">09znu2lqwxkiWh7UhusKQ7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
